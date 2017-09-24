@@ -1,0 +1,22 @@
+{
+  "name": "awesome-yarnpkg",
+  "version": "0.0.1",
+  "description": "list of awesome resources: Books, Videos, Articles about using **yarnpkg**",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasiriveni/awesome-yarnpkg.git"
+  },
+  "author": "kasiriveni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kasiriveni/awesome-yarnpkg/issues"
+  },
+  "homepage": "https://github.com/kasiriveni/awesome-yarnpkg#readme",
+  "keywords": [
+    "yarnpkg",
+    "awesome"
+  ],
+  "devDependencies": {}
+}
