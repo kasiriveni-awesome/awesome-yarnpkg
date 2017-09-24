@@ -1,6 +1,7 @@
 # 😎 awesome-yarnpkg 📦 🐈
 [![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
-list of awesome resources: Books, Videos, Articles about using **yarnpkg**
+
+> list of awesome resources: Books, Videos, Articles about using **yarnpkg**
 
 ## Community
 
