@@ -1,7 +1,7 @@
-# 😎 awesome-yarnpkg 📦 🐈
+### awesome-yarnpkg 
 [![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
 
-> list of awesome resources: Books, Videos, Articles about using **yarnpkg**
+> 📦 🐈 A list of awesome resources: Books, Videos, Articles about using **yarnpkg** 
 
 ## Community
 
@@ -14,13 +14,11 @@
 
 
 
-## Documentation
+### Documentation
 [docs](https://yarnpkg.com/en/docs)
 
 
-## Support
-
-## Tips
+### Tips
 [cheatsheet](https://github.com/areai51/yarn-cheatsheet)
 
 
@@ -30,12 +28,13 @@
 $ npm install --global yarn
 ```
 
-# Contributors
+### Videos
 
-## License
+
+### License
 MIT © [kasiriveni](https://github.com/kasiriveni)
 
-## Contributors
+### Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
